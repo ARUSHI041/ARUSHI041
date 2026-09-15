@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5C3EE8&height=180&section=header" width="100%"/>
+
 # Hi there, I'm Arushi Srivastava 👋
 
-### 🎯 B.Tech IT Graduate crafting solutions with Data, Code & Computer Vision
+### 🎯 B.Tech IT Graduate | Data Analytics | Python Development | Computer Vision
 
-*Turning raw data into insights and ideas into working applications*
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Python+Development;Computer+Vision+%7C+Flask+%7C+SQL+%7C+Power+BI;Turning+raw+data+into+real+insights" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-srivastava-725196309)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/ARUSHI041)
@@ -101,5 +103,7 @@ SRMCEM, Lucknow | AKTU
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arushisrivastava338@gmail.com)
 
 ⭐ *Feel free to explore my repositories — always open to interesting collaborations!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3EE8,100:0A66C2&height=100&section=footer" width="100%"/>
 
 </div>
