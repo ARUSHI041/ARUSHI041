@@ -44,20 +44,22 @@ I'm an Information Technology graduate passionate about **Data Analytics, Python
 
 <table>
 <tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=powerbi" width="50"/><br>
+
+<td align="center" width="130">
+<img src="https://img.shields.io/badge/%F0%9F%93%8A%20Power%20BI-F2C811?style=flat&labelColor=F2C811&color=F2C811" height="50"/><br>
 <sub><b>Power BI</b></sub>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="130">
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="50"/><br>
 <sub><b>Excel</b></sub>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="130">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="50"/><br>
 <sub><b>Pandas</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -65,6 +67,7 @@ I'm an Information Technology graduate passionate about **Data Analytics, Python
 
 <table>
 <tr>
+
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=opencv" width="50"/><br>
 <sub><b>OpenCV</b></sub>
@@ -74,6 +77,7 @@ I'm an Information Technology graduate passionate about **Data Analytics, Python
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" height="50"/><br>
 <sub><b>MediaPipe</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -81,6 +85,7 @@ I'm an Information Technology graduate passionate about **Data Analytics, Python
 
 <table>
 <tr>
+
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=flask" width="50"/><br>
 <sub><b>Flask</b></sub>
@@ -100,6 +105,7 @@ I'm an Information Technology graduate passionate about **Data Analytics, Python
 <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
 <sub><b>JavaScript</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -107,6 +113,7 @@ I'm an Information Technology graduate passionate about **Data Analytics, Python
 
 <table>
 <tr>
+
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
 <sub><b>Git</b></sub>
@@ -121,6 +128,7 @@ I'm an Information Technology graduate passionate about **Data Analytics, Python
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
 <sub><b>VS Code</b></sub>
 </td>
+
 </tr>
 </table>
 
