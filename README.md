@@ -24,34 +24,32 @@ I'm an Information Technology graduate passionate about **Data Analytics, Python
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 **Programming**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
 **Data & Analytics**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=powerbi" /> &nbsp;
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) &nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 **Computer Vision & AI**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=opencv" /> &nbsp;
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
 
 **Web Development**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=flask,html,css,js" />
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
@@ -91,6 +89,16 @@ A computer vision-based application that enables hands-free mouse control using 
 
 **B.Tech – Information Technology**
 SRMCEM, Lucknow | AKTU
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ARUSHI041/ARUSHI041/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
 
 ---
 
