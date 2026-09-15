@@ -8,9 +8,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Python+Development;Computer+Vision+%7C+Flask+%7C+SQL+%7C+Power+BI;Turning+raw+data+into+real+insights" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-srivastava-725196309)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/ARUSHI041)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arushisrivastava338@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arushi-srivastava-725196309)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ARUSHI041)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:arushisrivastava338@gmail.com)
 
 </div>
 
@@ -24,32 +24,105 @@ I'm an Information Technology graduate passionate about **Data Analytics, Python
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
 **Programming**
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+<sub><b>MySQL</b></sub>
+</td>
+</tr>
+</table>
 
 **Data & Analytics**
 
-<img src="https://skillicons.dev/icons?i=powerbi" /> &nbsp;
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) &nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=powerbi" width="50"/><br>
+<sub><b>Power BI</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="50"/><br>
+<sub><b>Excel</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="50"/><br>
+<sub><b>Pandas</b></sub>
+</td>
+</tr>
+</table>
 
 **Computer Vision & AI**
 
-<img src="https://skillicons.dev/icons?i=opencv" /> &nbsp;
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=opencv" width="50"/><br>
+<sub><b>OpenCV</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" height="50"/><br>
+<sub><b>MediaPipe</b></sub>
+</td>
+</tr>
+</table>
 
 **Web Development**
 
-<img src="https://skillicons.dev/icons?i=flask,html,css,js" />
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flask" width="50"/><br>
+<sub><b>Flask</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+<sub><b>HTML</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+<sub><b>CSS</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+<sub><b>JavaScript</b></sub>
+</td>
+</tr>
+</table>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+<sub><b>Git</b></sub>
+</td>
 
-</div>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+<sub><b>VS Code</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,6 +162,7 @@ A computer vision-based application that enables hands-free mouse control using 
 
 **B.Tech – Information Technology**
 SRMCEM, Lucknow | AKTU
+**2022–2026**
 
 ---
 
@@ -106,12 +180,12 @@ SRMCEM, Lucknow | AKTU
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-srivastava-725196309)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARUSHI041)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arushisrivastava338@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/arushi-srivastava-725196309)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ARUSHI041)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:arushisrivastava338@gmail.com)
 
 ⭐ *Feel free to explore my repositories — always open to interesting collaborations!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3EE8,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3EE8,100:0A66C2&height=100&section=footer" width="100%"/> 
 
 </div>
