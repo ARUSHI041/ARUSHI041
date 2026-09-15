@@ -29,6 +29,15 @@ Git, GitHub, VS Code
 
 ## 🚀 Featured Projects
 
+### 📊 Olist E-Commerce Sales & Customer Analytics
+
+An end-to-end data analytics project on the Olist e-commerce dataset — covering data cleaning and EDA in Python, in-depth analysis using MySQL, and an interactive Power BI dashboard to surface sales and customer insights.
+
+Tech Stack: Python • MySQL • Power BI • Pandas
+
+🔗 View Repository
+
+
 ### 🤖 AI Resume Screener
 
 A Flask-based resume screening application that analyzes resumes against job descriptions, calculates keyword-based match scores, identifies matched and missing skills, and provides improvement suggestions.
@@ -49,13 +58,6 @@ A computer vision-based application that enables hands-free mouse control using 
 
 ---
 
-## 📚 Currently Working On
-
-* Building practical Data Analytics projects using Python, SQL, and Power BI
-* Improving Python and SQL skills
-* Developing projects focused on real-world problem solving
-
----
 
 ## 🎓 Education
 
