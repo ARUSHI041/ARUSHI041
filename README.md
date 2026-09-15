@@ -1,35 +1,61 @@
-# Hi, I'm Arushi Srivastava 👋
+<div align="center">
 
-### B.Tech IT Graduate | Python | Data Analytics | Computer Vision | Flask | SQL | Power BI
+# Hi there, I'm Arushi Srivastava 👋
 
-I'm an Information Technology graduate interested in **Data Analytics, Python development, Computer Vision, and practical technology solutions**.
+### 🎯 B.Tech IT Graduate crafting solutions with Data, Code & Computer Vision
 
-I enjoy building projects that combine programming, data, automation, and problem-solving to create useful real-world applications.
+*Turning raw data into insights and ideas into working applications*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-srivastava-725196309)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/ARUSHI041)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arushisrivastava338@gmail.com)
 
-## 🛠️ Skills
-
-**Programming:**
-Python, SQL
-
-**Data & Analytics:**
-Power BI, Excel, Pandas, Data Analysis
-
-**Computer Vision & AI:**
-OpenCV, MediaPipe
-
-**Web Development:**
-Flask, HTML, CSS, JavaScript
-
-**Tools:**
-Git, GitHub, VS Code
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 🌟 About Me
 
-### 📊 Olist E-Commerce Sales & Customer Analytics
+I'm an Information Technology graduate passionate about **Data Analytics, Python development, Computer Vision, and practical tech solutions**. I love building projects that blend programming, data, and automation into something genuinely useful — not just code that works, but solutions that solve real problems.
+
+---
+
+### 🛠️ Tech Stack
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Computer Vision & AI**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+
+**Web Development**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 📊 Olist E-Commerce Sales & Customer Analytics
 
 An end-to-end data analytics project on the Olist e-commerce dataset — covering data cleaning and EDA in Python, in-depth analysis using MySQL, and an interactive Power BI dashboard to surface sales and customer insights.
 
@@ -39,7 +65,7 @@ An end-to-end data analytics project on the Olist e-commerce dataset — coverin
 
 ---
 
-### 🤖 AI Resume Screener
+#### 🤖 AI Resume Screener
 
 A Flask-based resume screening application that analyzes resumes against job descriptions, calculates keyword-based match scores, identifies matched and missing skills, and provides improvement suggestions.
 
@@ -49,7 +75,7 @@ A Flask-based resume screening application that analyzes resumes against job des
 
 ---
 
-### 👁️ GazeMouse
+#### 👁️ GazeMouse
 
 A computer vision-based application that enables hands-free mouse control using eye and facial movements.
 
@@ -59,19 +85,21 @@ A computer vision-based application that enables hands-free mouse control using 
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 **B.Tech – Information Technology**
 SRMCEM, Lucknow | AKTU
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/arushi-srivastava-725196309)
-* 🐙 [GitHub](https://github.com/ARUSHI041)
-* 📧 Email: [arushisrivastava338@gmail.com](mailto:arushisrivastava338@gmail.com)
+### 📫 Let's Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushi-srivastava-725196309)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARUSHI041)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arushisrivastava338@gmail.com)
 
-⭐ Feel free to explore my repositories and projects!
+⭐ *Feel free to explore my repositories — always open to interesting collaborations!*
+
+</div>
