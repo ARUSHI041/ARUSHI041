@@ -33,10 +33,11 @@ Git, GitHub, VS Code
 
 An end-to-end data analytics project on the Olist e-commerce dataset — covering data cleaning and EDA in Python, in-depth analysis using MySQL, and an interactive Power BI dashboard to surface sales and customer insights.
 
-Tech Stack: Python • MySQL • Power BI • Pandas
+**Tech Stack:** Python • MySQL • Power BI • Pandas
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/ARUSHI041/olist-ecommerce-sales-customer-analytics)
 
+---
 
 ### 🤖 AI Resume Screener
 
@@ -57,7 +58,6 @@ A computer vision-based application that enables hands-free mouse control using 
 🔗 [View Repository](https://github.com/ARUSHI041/GazeMouse)
 
 ---
-
 
 ## 🎓 Education
 
